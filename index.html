@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="./assets/js/script.js" defer></script>
   <title>OnTour</title>
 </head>
 <body>
@@ -27,22 +28,22 @@
       Conteúdo
       <article class="tour">
         <section class="tour__preview">
-          <img class="tour__image" src="" alt="Tour">
+          <img class="tour__image" src="./assets/img/ilhabela.jpg" alt="Tour">
         </section>
-        <section>
+        <section class="tour__content">
           <section class="tour__informations">
             <p class="tour__title">Título</p>
             <p class="tour__description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Excepturi mollitia, quas quae harum similique veniam sed voluptatem 
-              perferendis.
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                Excepturi mollitia, quas quae harum similique veniam sed voluptatem 
+                perferendis.
             </p>
-            <section class="tour__badges">
-              <div class="tour__language">Português</div>
-              <div class="tour__duration">30m ~ 40m</div>
-              <div class="tour__price">R$ 5,00</div>
-              <div class="tour__details">Detalhes</div>
-            </section>
+          </section>
+          <section class="tour__details">
+            <div class="tour__badge tour__badge-language">Português</div>
+            <div class="tour__badge tour__badge-duration">30m ~ 40m</div>
+            <div class="tour__badge tour__badge-price">R$ 5,00</div>
+            <div class="tour__badge tour__badge-more">Detalhes</div>
           </section>
         </section>
       </article>
