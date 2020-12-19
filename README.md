@@ -61,6 +61,68 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
+## :muscle: **Contribuidores**
+
+<div align="center">
+
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Gabriel"/><br />
+        <sub><b>Gabriel</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Deivid"/><br />
+        <sub><b>Deivid</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rafaelfachinelli">
+        <img src="https://avatars2.githubusercontent.com/u/19878139?s=460&u=363cb967c17e13003de2cbb894771bbb51ac2eb1&v=4" width="100px;" alt="Perfil Rafael Fachinelli"/><br />
+        <sub><b>Rafael Fachinelli</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/rafaelfachinelli" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/rafaelfachinelli" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://PORTFOLIOURL.COM">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Thainá"/><br />
+        <sub><b>Thainá</b></sub>
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
+      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+    </td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+</div>
+
+---
 ## :page_facing_up: **Licença**
 
 <div align="center">
