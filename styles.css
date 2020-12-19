@@ -1,0 +1,44 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+
+  background: #2F80ED;
+}
+
+.container {
+  display: flex;
+}
+
+.nav {
+  display: flex;
+  height: 100vh;
+  padding: 1rem;
+
+  background: #2D9CDB;
+}
+
+.main {
+  padding: 1rem;
+}
+
+.tour {
+  background: black;
+  color: white;
+}
+
+.tour__badges {
+  display: flex;
+  justify-content: space-around;
+}
