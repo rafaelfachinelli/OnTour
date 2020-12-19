@@ -1,4 +1,8 @@
 :root {
+
+  --color-primary: #2D9CDB;
+  --color-primary-darker: #2F80ED;
+
   font-size: 62.5%;
 }
 
@@ -14,7 +18,7 @@
   align-items: center;
   padding: 1rem;
 
-  background: #2F80ED;
+  background: var(--color-primary-darker);
 }
 
 .container {
@@ -22,23 +26,65 @@
 }
 
 .nav {
-  display: flex;
   height: 100vh;
+  display: flex;
   padding: 1rem;
 
-  background: #2D9CDB;
+  background: var(--color-primary);
 }
 
 .main {
-  padding: 1rem;
+  padding: .5rem;
 }
 
 .tour {
+  display: flex;
+
   background: black;
   color: white;
+  border-radius: .8rem;
+}
+
+.tour__preview {
+
+}
+
+.tour__image {
+  width: 100%;
+}
+
+.tour__informations {
+  padding: .5rem;
+}
+
+.tour__title {
+  font-size: 2.6rem;
+  font-weight: bold;
+}
+
+.tour__description {
+  font-size: 1.6rem;
 }
 
 .tour__badges {
   display: flex;
   justify-content: space-around;
+
+  font-size: 1.2rem;
+}
+
+.tour__language {
+
+}
+
+.tour__duration {
+
+}
+
+.tour__price {
+
+}
+
+.tour__details {
+
 }
