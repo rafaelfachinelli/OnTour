@@ -1,7 +1,11 @@
 :root {
-
-  --color-primary: #2D9CDB;
-  --color-primary-darker: #2F80ED;
+  --color-blue: #2D9CDB;
+  --color-blue-darker: #2F80ED;
+  --color-black: #333;
+  --color-white: #f2f2f2;
+  --color-orange: #f2994a;
+  --color-yellow: #f2c94c;
+  --color-green: #219653;
 
   font-size: 62.5%;
 }
@@ -18,7 +22,7 @@
   align-items: center;
   padding: 1rem;
 
-  background: var(--color-primary-darker);
+  background: var(--color-blue-darker);
 }
 
 .container {
@@ -30,7 +34,7 @@
   display: flex;
   padding: 1rem;
 
-  background: var(--color-primary);
+  background: var(--color-blue);
 }
 
 .main {
@@ -40,7 +44,7 @@
 .tour {
   display: flex;
 
-  background: black;
+  background: var(--color-black);
   color: white;
   border-radius: .8rem;
 }
@@ -69,22 +73,31 @@
 .tour__badges {
   display: flex;
   justify-content: space-around;
+  margin-top: .5rem;
 
   font-size: 1.2rem;
 }
 
 .tour__language {
+  padding: .5rem;
 
+  background: var(--color-blue-darker);
 }
 
 .tour__duration {
+  padding: .5rem;
 
+  background: var(--color-orange);
 }
 
 .tour__price {
+  padding: .5rem;
 
+  background: var(--color-yellow);
 }
 
 .tour__details {
+  padding: .5rem;
 
+  background: var(--color-green);
 }
