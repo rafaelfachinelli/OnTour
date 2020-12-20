@@ -101,8 +101,6 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
       <a href="https://www.linkedin.com/in/rafaelfachinelli" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
       <a href="https://github.com/rafaelfachinelli" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://PORTFOLIOURL.COM">
         <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Thainá"/><br />
