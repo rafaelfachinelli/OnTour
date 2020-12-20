@@ -72,8 +72,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
   <tr>
     <td align="center">
       <a href="https://PORTFOLIOURL.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Gabriel"/><br />
-        <sub><b>Gabriel</b></sub>
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Deivid"/><br />
+        <sub><b>Deivid</b></sub>
       </a>
       <br/>
       <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
@@ -83,8 +83,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
     </td>
     <td align="center">
       <a href="https://PORTFOLIOURL.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Deivid"/><br />
-        <sub><b>Deivid</b></sub>
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Gabriel"/><br />
+        <sub><b>Gabriel</b></sub>
       </a>
       <br/>
       <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
