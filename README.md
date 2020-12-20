@@ -63,6 +63,42 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
+## :arrow_forward: **Run**
+
+### :desktop_computer: **WEB Responsive**
+
+Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
+
+<details>
+  <summary><i>com <b>npm</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ npm install
+
+  # Iniciar o servidor de desenvolvimento
+  $ npm start
+  ```
+  
+</details>
+
+<details>
+  <summary><i>com <b>yarn</b></i></summary>
+  
+  ```bash
+  # Instalar dependências
+  $ yarn
+
+  # Iniciar o servidor de desenvolvimento
+  $ yarn start
+
+  ```
+
+</details>
+
+> ⚠️ The development server will start on port:YOURPORT - Access <http://localhost:YOURPORT>
+
+---
 ## :muscle: **Contribuidores**
 
 <div align="center">
