@@ -23,11 +23,13 @@
 ## :movie_camera: **Demonstração**
 
 <p align="center">
-  <kbd><img alt="OnTour" src=".github/desktop_demo.png"/></kbd>
+  <kbd><a href="https://rafaelfachinelli.github.io/OnTour/" target="_blank"><img alt="OnTour" src=".github/desktop_demo.png"/></a></kbd>
 <p>
   
 ---
 ## :computer: Sobre
+
+Instituições como museus, hoteís, parques entre outros tiveram uma queda imensa de público causada pela pandemia, criando um défict na renda que mantém essas instituições funcionando.
 
 Plataforma com propósito de realizar Tours Online, gratuitos ou pagos, ao vivo liderados por guias turisticos do local, com rotas e tempo definidos, podendo ser divulgado no site da instituição para seus clientes e também encontrado por entusiastas na plataforma.
 
