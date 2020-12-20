@@ -27,20 +27,54 @@
 }
 
 .container {
+  width: 100%;
+  height: 100%;
   display: flex;
 }
 
 .nav {
-  height: 100vh;
   display: flex;
-  padding: 1rem;
 
   background: var(--color-blue);
 }
 
 .main {
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+}
+
+.nav__menu {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
+.menu__item {
+  display: flex;
+  align-items: center;
+  padding: .8rem;
+
+  transition: .2s;
+  cursor: pointer;
+}
+
+.menu__item:hover {
+  background: #2F80ED;
+}
+
+.menu__item img {
+  width: 2rem;
+  height: 2rem;
+  margin-right: .5rem;
+}
+
+.menu__item a {
+  color: var(--color-white);
+  text-decoration: none;
+  font-size: 1.6rem;
 }
 
 .tour {
@@ -122,4 +156,5 @@
   padding: .5rem;
 
   background: var(--color-green);
+  cursor: pointer;
 }
