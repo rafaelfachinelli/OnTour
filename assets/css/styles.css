@@ -17,6 +17,10 @@
   scroll-behavior: smooth;
 }
 
+body {
+  font-family: "Nunito", 'Times New Roman', Times, serif;
+}
+
 .header {
   height: 50px;
   display: flex;
@@ -38,6 +42,12 @@
   background: var(--color-blue);
 }
 
+.nav__menu {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+
 .main {
   width: 100%;
   height: 100%;
@@ -46,10 +56,31 @@
   justify-content: center;
 }
 
-.nav__menu {
+.menu__expand {
   display: flex;
   flex-direction: column;
-  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu__expand a {
+  color: var(--color-white);
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.menu__expand img {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: .5rem;
+}
+
+.menu__expand:hover {
+  background: var(--color-blue-darker);
+}
+
+.expand__button {
+  transition: .2s;
 }
 
 .menu__item {
@@ -62,12 +93,12 @@
 }
 
 .menu__item:hover {
-  background: #2F80ED;
+  background: var(--color-blue-darker);
 }
 
 .menu__item img {
-  width: 2rem;
-  height: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
   margin-right: .5rem;
 }
 
@@ -116,7 +147,7 @@
 
 .tour__title {
   font-size: 2.6rem;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .tour__description {
@@ -157,4 +188,12 @@
 
   background: var(--color-green);
   cursor: pointer;
+}
+
+.invisible {
+  display: none;
+}
+
+.flipImage {
+  transform: rotate(180deg);
 }
