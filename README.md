@@ -45,6 +45,8 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)	|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)		|
 |[JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)|
+|[React](https://reactjs.org)|
+|[TypeScript](https://www.typescriptlang.org)|
 
 </div>
 
