@@ -24,7 +24,9 @@
 ## :movie_camera: **Demonstração**
 
 <p align="center">
-  <kbd><a href="https://rafaelfachinelli.github.io/OnTour/" target="_blank"><img alt="OnTour" src=".github/desktop_demo.png"/></a></kbd>
+  <kbd><img alt="OnTour" src=".github/desktop_demo.png"/></kbd>
+  <kbd><img alt="OnTour" src=".github/mobile_demo.png"/></kbd>
+  <kbd><img alt="OnTour" src=".github/qrcode.png"/></kbd>
 <p>
   
 ---
