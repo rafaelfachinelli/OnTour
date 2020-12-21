@@ -101,7 +101,7 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
   <tr>
     <td align="center">
       <a href="https://www.instagram.com/producoesgarcia_/">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Deivid Garcia"/><br />
+        <img src=".github/deividProfile.jpeg" width="100px;" alt="Perfil Deivid Garcia"/><br />
         <sub><b>Deivid Garcia</b></sub>
       </a>
       <br/>
