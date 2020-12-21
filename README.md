@@ -102,11 +102,10 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
       <br/>
       <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
       <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
-      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
-      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+      <a href="https://www.instagram.com/mont_thaina/" title="Instagram"><img src="https://simpleicons.org/icons/instagram.svg" width="20px"/></a>
     </td>
     <td align="center">
-      <a href="https://github.com/gfrancodev">
+      <a href="https://www.linkedin.com/in/gfrancodev">
         <img src="https://avatars2.githubusercontent.com/u/68759427?s=460&u=84e8250c02de21177ac7e01a2e169ea613ef0c07&v=4" width="100px;" alt="Perfil Gustavo Franco"/><br />
         <sub><b>Gusstavo Franco</b></sub>
       </a>
@@ -114,6 +113,7 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
       <a href="https://www.linkedin.com/in/gfrancodev" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
       <a href="https://github.com/gfrancodev" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
       <a href="https://www.behance.net/gfrancodev" title="Behance"><img src="https://simpleicons.org/icons/behance.svg" width="20px"/></a>
+      <a href="https://www.instagram.com/gfrancodev" title="Instagram"><img src="https://simpleicons.org/icons/instagram.svg" width="20px"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/rafaelfachinelli">
@@ -125,13 +125,14 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
       <a href="https://github.com/rafaelfachinelli" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
     </td>
     <td align="center">
-      <a href="https://PORTFOLIOURL.COM">
+      <a href="https://www.linkedin.com/in/thaina-monteiro">
         <img src="https://avatars0.githubusercontent.com/u/47891117?s=460&u=1f748e7fdec0b9d42b23f20d70f774031378e9b7&v=4" width="100px;" alt="Perfil Thainá Monteiro"/><br />
         <sub><b>Thainá Monteiro</b></sub>
       </a>
       <br/>
       <a href="https://www.linkedin.com/in/thaina-monteiro" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
       <a href="https://github.com/thainamonteiro" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.instagram.com/mont_thaina/" title="Instagram"><img src="https://simpleicons.org/icons/instagram.svg" width="20px"/></a>
     </td>
   </tr>
 </table>
