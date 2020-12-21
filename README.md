@@ -97,19 +97,17 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
 <table>
   <tr>
     <td align="center">
-      <a href="https://PORTFOLIOURL.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Deivid"/><br />
-        <sub><b>Deivid</b></sub>
+      <a href="https://www.instagram.com/producoesgarcia_/">
+        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Deivid Garcia"/><br />
+        <sub><b>Deivid Garcia</b></sub>
       </a>
       <br/>
-      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
-      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
-      <a href="https://www.instagram.com/mont_thaina/" title="Instagram"><img src="https://simpleicons.org/icons/instagram.svg" width="20px"/></a>
+      <a href="https://www.instagram.com/producoesgarcia_/" title="Instagram"><img src="https://simpleicons.org/icons/instagram.svg" width="20px"/></a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/gfrancodev">
         <img src="https://avatars2.githubusercontent.com/u/68759427?s=460&u=84e8250c02de21177ac7e01a2e169ea613ef0c07&v=4" width="100px;" alt="Perfil Gustavo Franco"/><br />
-        <sub><b>Gusstavo Franco</b></sub>
+        <sub><b>Gustavo Franco</b></sub>
       </a>
       <br/>
       <a href="https://www.linkedin.com/in/gfrancodev" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
