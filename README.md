@@ -14,8 +14,8 @@
 <p align="center">
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
+ <a href="#arrow_forward-executar">Executar</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
@@ -34,20 +34,6 @@ Instituições como museus, hoteís, parques entre outros tiveram uma queda imen
 Plataforma com propósito de realizar Tours Online, gratuitos ou pagos, ao vivo liderados por guias turisticos do local, com rotas e tempo definidos, podendo ser divulgado no site da instituição para seus clientes e também encontrado por entusiastas na plataforma.
 
 ---
-## :memo: **Roteiro**
-
-<div align="center">
-<details>
-<summary>Clique para Visualizar</summary>
-
-|      Estado      |     Tarefa    |
-|      :---:       |      :---     |
-|||
-
-</details>
-</div>
-
----
 ## :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
@@ -63,7 +49,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 </div>
 
 ---
-## :arrow_forward: **Run**
+## :arrow_forward: **Executar**
 
 ### :desktop_computer: **WEB Responsive**
 
@@ -96,7 +82,7 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
 
 </details>
 
-> ⚠️ The development server will start on port:YOURPORT - Access <http://localhost:YOURPORT>
+> ⚠️ O servidor de desenvolvimento vai executar na porta:3000 - Access <http://localhost:3000>
 
 ---
 ## :muscle: **Contribuidores**
@@ -120,15 +106,14 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
       <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
     </td>
     <td align="center">
-      <a href="https://PORTFOLIOURL.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Gabriel"/><br />
-        <sub><b>Gabriel</b></sub>
+      <a href="https://github.com/gfrancodev">
+        <img src="https://avatars2.githubusercontent.com/u/68759427?s=460&u=84e8250c02de21177ac7e01a2e169ea613ef0c07&v=4" width="100px;" alt="Perfil Gustavo Franco"/><br />
+        <sub><b>Gusstavo Franco</b></sub>
       </a>
       <br/>
-      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
-      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
-      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
-      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+      <a href="https://www.linkedin.com/in/gfrancodev" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/gfrancodev" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
+      <a href="https://www.behance.net/gfrancodev" title="Behance"><img src="https://simpleicons.org/icons/behance.svg" width="20px"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/rafaelfachinelli">
@@ -141,14 +126,12 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
     </td>
     <td align="center">
       <a href="https://PORTFOLIOURL.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Perfil Thainá"/><br />
-        <sub><b>Thainá</b></sub>
+        <img src="https://avatars0.githubusercontent.com/u/47891117?s=460&u=1f748e7fdec0b9d42b23f20d70f774031378e9b7&v=4" width="100px;" alt="Perfil Thainá Monteiro"/><br />
+        <sub><b>Thainá Monteiro</b></sub>
       </a>
       <br/>
-      <a href="https://www.linkedin.com/in/CONTRIBUTORNAME" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
-      <a href="https://github.com/CONTRIBUTORNAME" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
-      <a href="https://www.facebook.com/CONTRIBUTORNAME" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
-      <a href="https://www.youtube.com/CANALNAME" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
+      <a href="https://www.linkedin.com/in/thaina-monteiro" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
+      <a href="https://github.com/thainamonteiro" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
     </td>
   </tr>
 </table>

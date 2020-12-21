@@ -1,8 +1,9 @@
 :root {
   --color-blue: #2D9CDB;
-  --color-blue-darker: #2F80ED;
-  --color-black-lighter: #4f4f4f;
+  --color-black-lighter: #e0e0e0;
+  --color-black-light: #4f4f4f;
   --color-black: #333;
+  --color-blue-darker: #2F80ED;
   --color-white: #f2f2f2;
   --color-orange: #f2994a;
   --color-yellow: #be9e3b;
@@ -79,7 +80,7 @@ body {
 }
 
 .menu__expand:hover {
-  background: var(--color-black-lighter);
+  background: var(--color-black-light);
 }
 
 .expand__button {
@@ -112,19 +113,21 @@ body {
 }
 
 .tour {
-  max-width: 55rem;
-  max-height: 17rem;
+  max-width: 20rem;
+  max-height: 30rem;
   display: flex;
+  flex-direction: column;
   padding: .8rem;
   margin: .5rem;
 
-  background: var(--color-black);
-  color: white;
+  color: var(--color-black);
+  border: 1px solid var(--color-black-lighter);
   border-radius: .8rem;
 }
 
 .tour__preview {
   width: 100%;
+  height: 40%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -134,27 +137,26 @@ body {
   max-width: 100%;
   height: 100%;
 
-  border-top-left-radius: .8rem;
-  border-bottom-left-radius: .8rem;
+  border-radius: .8rem;
 }
 
 .tour__content {
   display: flex;
-  justify-content: space-between;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 .tour__informations {
-  padding-left: .8rem;
 }
 
 .tour__title {
   font-size: 2.6rem;
   font-weight: 700;
+  text-align: center;
 }
 
 .tour__description {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   text-align: justify;
 }
 
