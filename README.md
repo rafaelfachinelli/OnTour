@@ -16,6 +16,7 @@
  <a href="#computer-sobre">Sobre</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#arrow_forward-executar">Executar</a> •
+ <a href="#muscle-contribuidores">Contribuidores</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
