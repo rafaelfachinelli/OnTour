@@ -27,9 +27,14 @@ body {
   height: 50px;
   display: flex;
   align-items: center;
+  justify-content: center;
   padding: 1rem;
 
   background: var(--color-blue-darker);
+}
+
+.logo {
+  width: 100px;
 }
 
 .container {
