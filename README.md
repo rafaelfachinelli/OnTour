@@ -120,7 +120,7 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
     </td>
     <td align="center">
       <a href="https://github.com/rafaelfachinelli">
-        <img src="https://rafaelfachinelli.png" width="100px;" alt="Perfil Rafael Fachinelli"/><br />
+        <img src="https://github.com/rafaelfachinelli.png" width="100px;" alt="Perfil Rafael Fachinelli"/><br />
         <sub><b>Rafael Fachinelli</b></sub>
       </a>
       <br/>
