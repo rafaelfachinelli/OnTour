@@ -150,7 +150,7 @@ Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
 
 <div align="center">
 
-Copyright © 2020 [OnTour](https://rafaelfachinelli.github.io/OnTour/).<br />
+Copyright © 2021 [OnTour](https://rafaelfachinelli.github.io/OnTour/).<br />
 Este projeto é licenciado pelo [MIT](./LICENSE).
 
 </div>
