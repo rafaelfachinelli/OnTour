@@ -58,7 +58,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 
 ### :desktop_computer: **WEB Responsive**
 
-Abra a pasta [`exemple/`](exemple/) e execute os seguintes comandos:
+Abra a pasta do projeto e execute os seguintes comandos:
 
 <details>
   <summary><i>com <b>npm</b></i></summary>
